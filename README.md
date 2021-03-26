@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @damiankaplon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in everything realted to software development, rally raids, cars, gym, video games and new technologies 
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on any project 
 - 📫 kaplon.damian99@gmail.com
 
 <!---
