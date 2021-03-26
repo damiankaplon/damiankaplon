@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on any project 
 - 📫 kaplon.damian99@gmail.com
+- Find me on Facebook:https://www.facebook.com/kaplon.damian/
+- Instagram: https://www.instagram.com/damiankaplon/
 
 <!---
 damiankaplon/damiankaplon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
