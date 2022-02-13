@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @damiankaplon
 - :books: I am a passionate IT student, who is looking for constant growth and challenges!
 - 📫 kaplon.damian99@gmail.com
+- :boom: visit my gitlab profile which contains great Django project! https://gitlab.com/damiankaplon
 
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
