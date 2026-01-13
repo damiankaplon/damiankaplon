@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damiankaplon
-- :books: I am a passionate IT student, who is looking for constant growth and challenges!
+- :books: I am a passionate software engineer, who is looking for constant growth and challenges!
 - 📫 kaplon.damian99@gmail.com
 - :boom: visit my gitlab profile which contains great Django project! https://gitlab.com/damiankaplon
 
