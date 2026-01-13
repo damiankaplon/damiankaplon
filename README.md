@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @damiankaplon
 - :books: I am a passionate software engineer, who is looking for constant growth and challenges!
 - 📫 kaplon.damian99@gmail.com
-- visit my personal webiste: https://damiankaplon.site/
+- Get to know me on: https://damiankaplon.site/
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
